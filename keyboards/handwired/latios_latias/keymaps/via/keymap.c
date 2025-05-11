@@ -14,7 +14,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                 KC_LSFT, KC_Z,   KC_LBRC, KC_RBRC, KC_LCTL, KC_LWIN, KC_UP,
                 KC_SPC,  KC_LEFT,
                 KC_ESC,  KC_1,   KC_W,    KC_E,    KC_R,    KC_T,
-                    KC_6,    KC_7,    KC_8,    KC_9,
+                    KC_TAB,    KC_Q,    KC_S,    KC_D,
                     KC_Y,    KC_U,    KC_I,    KC_O,    KC_0,    KC_DEL,
                 KC_LCTL,    KC_LWIN,    KC_UP,    KC_SPC,    KC_LEFT,
                     KC_LBRC,
