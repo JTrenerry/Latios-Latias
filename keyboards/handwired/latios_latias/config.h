@@ -8,4 +8,3 @@
 
 /* Reset */
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET
-// This LED blinks when entering bootloader
