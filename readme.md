@@ -14,4 +14,4 @@ My keyboard schemeatic can be seen [here](https://ryanis.cool/cosmos/beta#cm:Crw
 ![image](https://github.com/user-attachments/assets/b4c0affa-1fd1-424c-b56a-d9af36c8200f)
 
 ## QMK
-The qmk configuration can be found [here](/keyboards/handwired/)
+The qmk configuration can be found [here](/keyboards/latios_latias/readme.md)
