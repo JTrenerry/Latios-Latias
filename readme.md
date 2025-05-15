@@ -2,7 +2,7 @@
 This repo provides schemeatics and everything needed / used to make my dactyl keyboard named "Latios & Latias".
 It was made using [Cosmos](https://ryanis.cool/cosmos/) and [QMK](https://qmk.fm/)
 
-* [Cosmos](Cosmos)
+* [Cosmos](#Cosmos)
 * 
 
 ## Cosmos
